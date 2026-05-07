@@ -1,0 +1,9 @@
+.venv/
+.env
+data/
+*.csv
+*.json
+*.log
+__pycache__/
+*.pyc
+*.pyo
