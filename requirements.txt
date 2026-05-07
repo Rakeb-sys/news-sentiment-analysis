@@ -1,0 +1,9 @@
+numpy = 1.21.0
+pandas = 1.3.5
+matplotlib
+seaborn
+scipy
+yfinance
+git+https://github.com/mqandil/pynance.git
+talib-binary
+nltk
