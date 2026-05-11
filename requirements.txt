@@ -1,11 +1,10 @@
-numpy = 1.21.0
-pandas = 1.3.5
+numpy
+pandas
 matplotlib
 seaborn
 scipy
 yfinance
 git+https://github.com/mqandil/pynance.git
-talib-binary
+TA-Lib
 nltk
 scikit-learn
-nltk
