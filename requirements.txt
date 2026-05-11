@@ -7,3 +7,5 @@ yfinance
 git+https://github.com/mqandil/pynance.git
 talib-binary
 nltk
+scikit-learn
+nltk
