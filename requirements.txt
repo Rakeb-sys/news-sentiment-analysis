@@ -8,3 +8,4 @@ git+https://github.com/mqandil/pynance.git
 TA-Lib
 nltk
 scikit-learn
+textblob 
